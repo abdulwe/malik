@@ -1,2 +1,0 @@
-# malikcoder
-plp learning
